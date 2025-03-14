@@ -1,6 +1,12 @@
-telethon 
-flask 
-requests 
-asyncio 
-cfonts 
+telethon
+flask
+requests
+asyncio
+cfonts
 instaloader
+googletrans
+bs4
+googlesearch-python
+ipapi
+phonenumbers
+duckduckgo-search
